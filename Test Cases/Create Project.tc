@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Project Using HO Role</description>
+   <name>Create Project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0af0d068-55dd-4cac-a1a1-2fe32579b39e</testCaseGuid>
+</TestCaseEntity>
